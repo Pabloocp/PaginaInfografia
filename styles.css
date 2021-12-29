@@ -1,0 +1,45 @@
+body{
+    height: 100%;
+    overflow: hidden;
+}
+.lista >ul>li{
+    list-style: none;
+}
+
+.sin{
+    margin: 0;
+}
+
+img{
+    width: 900px;
+    height: auto;
+}
+
+.fotos{
+    max-height: 940px;
+    overflow-y: scroll;
+    padding: 10px;
+    
+}
+
+.fotos img{
+   margin-bottom: 4px;
+}
+
+html{
+    height: 100%;
+}
+
+#contenedor{
+    position: absolute;
+    top: 30%;
+}
+
+embed{
+    height: 100%;
+}
+
+#todo{
+    height: 100vh;
+    margin-bottom: 5px;
+}
