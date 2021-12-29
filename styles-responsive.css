@@ -1,0 +1,41 @@
+#columna-2{
+    display:none;
+    
+}
+
+img{
+    width: 900px;
+    height: auto;
+}
+
+.fotos{
+    max-height: 940px;
+    overflow-y: scroll;
+    padding: 10px;
+    
+}
+
+.fotos img{
+   margin-bottom: 4px;
+}
+
+html{
+    height: 100%;
+}
+
+@media (max-width: 525px) {
+  
+    h3{
+        margin-top: 10px;
+    }
+  
+    .fotos{
+       margin-top: 30px;
+       text-align: center;
+   }
+   .contenido2{
+    margin-top: 60px;
+    text-align: center;
+}
+   
+}
