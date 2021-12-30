@@ -1,9 +1,4 @@
 
-.insta{
-    text-decoration: none;
-    color: black;
-}
-
 body{
     height: 100%;
     
@@ -22,6 +17,23 @@ body{
 
 .text-center > a > p {
     font-weight: bold;
+}
+
+.insta{
+    text-decoration: none;
+    color: black;
+}
+
+.fotoro  {
+    text-decoration: none;
+    color: black;
+}
+
+#fotoRobin{
+    width: 100%;
+    height: 100%;
+    max-width: 370px;
+    max-height: 500px;
 }
 
 
