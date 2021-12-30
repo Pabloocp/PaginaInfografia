@@ -10,6 +10,15 @@ body{
     margin: 0;
 }
 
+.lista > a > p{
+    font-weight: bold;
+}
+
+.text-center > a > p {
+    font-weight: bold;
+}
+
+
 img{
     width: 900px;
     height: auto;

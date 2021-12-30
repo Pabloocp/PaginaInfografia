@@ -3,6 +3,14 @@
     
 }
 
+.lista > a > p{
+    font-weight: bold;
+}
+
+.text-center > a > p {
+    font-weight: bold;
+}
+
 img{
     width: 900px;
     height: auto;
@@ -23,7 +31,7 @@ html{
     height: 100%;
 }
 
-@media (max-width: 525px) {
+@media (max-width: 1000px) {
   
     h3{
         margin-top: 10px;
@@ -39,3 +47,4 @@ html{
 }
    
 }
+
