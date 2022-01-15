@@ -1,10 +1,27 @@
+@font-face {
+    font-family: KidWrtiting;
+    src: url(/fonts/KidLearningHowToWrite-Regular.ttf);
+}
 
 body{
     height: 100%;
-    
+    font-family: acumin-pro;
 }
+
+#Ro{
+    font-family: KidWrtiting;
+}
+
 .lista >ul>li{
     list-style: none;
+}
+
+.resalte:hover{
+    color: cornflowerblue;
+}
+
+.lista > ul > li > a {
+    color: black;
 }
 
 .sin{

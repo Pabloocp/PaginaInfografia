@@ -1,3 +1,16 @@
+@font-face {
+    font-family: KidWrtiting;
+    src: url(/fonts/KidLearningHowToWrite-Regular.ttf);
+}
+
+body{
+    font-family: acumin-pro;
+}
+
+#Ro{
+    font-family: KidWrtiting;
+}
+
 .insta{
     text-decoration: none;
     color: black;
